@@ -34,9 +34,13 @@ Implement a stack and queue class using an array of integer values.
 ## Reflection Questions
 
 - What is the fundamental principle behind a stack?
+  - Only the latest value added can be accessed
 - In what situations would using a stack be beneficial?
+  - I can think of many game-like examples, like platformers where new platforms form below you as you jump higher.
 - What is the fundamental principle behind a queue?
+  - Only the oldest value added can be accessed
 - In what situations would using a queue be beneficial?
+  - Pre-orders online, anything first come, first served, possibly leaderboards.
 
 ## Rubric
 
